@@ -4,7 +4,7 @@ window.onload = () => {
 };
 const COMMANDS = {
 	ls: 'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">contact</span>',
-	about: "Hello 👋<br>I'm Aron Binoy. I'm a Information Security enthusiast, currently living in India.",
+	about: "Hello 👋<br>I'm Aron Binoy. I'm a Security enthusiast, currently living in India.",
 	experience: "None",
 	education: "Unknown",
 	contact:"You can contact me on any of following links:<br><a href='https://t.me/aronbinoy' class='success link'>Telegram</a>, <a href='https://www.instagram.com/aron_binoy/' class='success link'>Instagram</a>, <a href='https://www.linkedin.com/in/aron-binoy/' class='success link'>Linkedin</a>, <a href='https://www.twitter.com/aron_binoy/' class='success link'>Twitter</a>, <a href='mailto:iaronbinoy@gmail.com' class='success link'>Email</a>",
